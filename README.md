@@ -1,3 +1,2 @@
-# number_guess
-Guess the number!
- 
+# number-guess  
+Make a number guess program to learn Julia language.
